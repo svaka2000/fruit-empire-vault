@@ -6,7 +6,7 @@ date: 2026-10-04
 
 This is Samarth's own save on its first join after the expansion ships: 0 rebirths, best fruit Zenflare, cash 6.46e26 ($646Sp), about 34.7K shards. Under the old rules nothing was gated, so he merged up to Zenflare without ever rebirthing. The question is what the one-time migration does to this save, and what the first half hour feels like.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Migration (Placement)**: the one-time step on first load that raises a save's rebirth count so its stage covers the best fruit it already owns ([[Rarity Gating and Rebirth]] rule 22).

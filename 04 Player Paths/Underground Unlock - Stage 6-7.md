@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Leo is 15 and plays on a PC. He is a saver: since stage 2 he has bought only the boat, a few potions and his first pet slot. At the start of stage 6 (Mythic) he decides to save for the underground. This path follows him across stage 6 and into stage 7 (Astral): the saving, the purchase, the first ores, the Ores Index, and a TNT warning while he is down in the mine.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Mine**: a player's underground, bought one floor at a time with shards. Floor 1 costs 100,000 (Samarth's number).

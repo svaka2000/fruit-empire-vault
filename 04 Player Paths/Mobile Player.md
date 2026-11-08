@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Noah is 10 and plays on a phone held sideways. Its screen is 667 x 375 points (iPhone SE size), the smallest screen the specs check. He does not own the Merge All game pass, so he merges by hand, about one merge every 6 seconds. This path follows the same core loop as the PC paths, in three sessions: the first 22 minutes, a boat and taming session at stage 3, and a mining session at stage 8.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Screen rectangles are from the unified HUD table in [[Integration Review]] section 4. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Screen rectangles are from the unified HUD table in [[Integration Review]] section 4. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **HUD scale**: every HUD button is drawn at a fraction of its 1600 x 900 size. On this phone it is 0.55, the floor (`Config.HudScaleFor`).

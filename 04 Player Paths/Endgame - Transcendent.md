@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Rin is 16 and plays on a PC. She is a regular player: pets at the 25% limit since stage 6, the mine with Floor 1 since stage 8. This path starts at her eighth rebirth, which unlocks Transcendent (stage 9), and asks one question: what keeps her playing once there is nothing left to unlock?
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Stage 9**: Transcendent, the last stage (8 rebirths). Cap fruit Soul Fruit ($237Sx/s each). Spawn ceiling Zenflare. Cursed Fruit and Soul Fruit are merge-only. There is no rebirth after it ([[Rarity Gating and Rebirth]] rule 13).

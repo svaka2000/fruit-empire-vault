@@ -4,7 +4,7 @@ date: 2026-10-04
 ---
 # Brain dump: 4 Oct 2026 (Samarth, verbatim)
 
-This is the source of truth. Every system note in [[02 Systems]] links back here.
+This is the source of truth. Every system note in [[00 Systems Index|02 Systems]] links back here.
 
 Reference images:
 - ![[ui-reference-hud-left.png]] his UI (left HUD: Inventory, Index, Shop)

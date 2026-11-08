@@ -4,7 +4,7 @@ date: 2026-10-04
 ---
 # Player paths: summary
 
-Seven players were walked through the 11 expansion specs in [[02 Systems]], minute by minute, against the [[Stage Model]] and the [[Brain Dump 2026-10-04]]. This note ranks every friction they hit, says what fixes it and which spec owns the fix, and lists the spec errors that were fixed in place.
+Seven players were walked through the 11 expansion specs in [[00 Systems Index|02 Systems]], minute by minute, against the [[Stage Model]] and the [[Brain Dump 2026-10-04]]. This note ranks every friction they hit, says what fixes it and which spec owns the fix, and lists the spec errors that were fixed in place.
 
 | Path | Player | Covers |
 |---|---|---|

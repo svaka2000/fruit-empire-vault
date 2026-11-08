@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Maya is 14 and plays on a PC. She has rebirthed 3 times, so she is in stage 4 (Epic). She comes back the next day for one 70-minute session: she finishes her stage 4 plot, uses a potion, takes her boat to the forest, tames an Epic animal, trades TNT with a rival, and decides when to rebirth.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Stage 4**: Epic unlocked (3 rebirths). Cap fruit Watermelon ($59.4B/s each). Spawn ceiling Pumpkin. Honeydew and Watermelon can only be merged, never grown (D-007).

@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Kai is 13 and plays on a PC. He is in stage 6 (Mythic, 5 rebirths) and his plot has just filled with Dragon Peppers: 62 minutes of waiting before his rebirth cash is ready (see P2-1 in [[Mid Game - Stage 4 Epic]]). He spends the wait fighting: a Golden Crate fight with bats, a boat battle with artillery, a TNT attack on his garden and his defence, and a Crown Duel with a new blade. His friend Mia (stage 4) rides with him.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Tier**: a bat's level, equal to the player's stage. A higher tier pushes further ([[Bats]] Numbers).

@@ -6,7 +6,7 @@ date: 2026-10-04
 
 Ava is 11. She plays on a PC with a mouse and keyboard. She has never played Fruit Empire. She joins an 8-player server and plays for 40 minutes: her plot, her first merges, the Apple cap, the Rebirth menu, her first rebirth and her first Uncommon fruit. She also tries one trip to the forest.
 
-Every rule cited is in the spec notes in [[02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
+Every rule cited is in the spec notes in [[00 Systems Index|02 Systems]]. Each friction is ranked in [[00 Paths Summary]].
 
 **Words used here**
 - **Stage**: the newest rarity a player has unlocked. Stage 1 is Common (0 rebirths).

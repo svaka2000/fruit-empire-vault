@@ -1,10 +1,26 @@
 ---
 tags: [home, moc]
 date: 2026-10-04
+updated: 2026-11-08
 ---
 # Fruit Empire: home
 
+> [!tip] New (8 Nov 2026): the knowledge base
+> How the game is made now: UI rules and taste, art style and palettes, map building, the builder and deploy tools, the Studio turn rules, and one page per project. Start at [[Knowledge Base - Start Here]]. The shared source of truth stays the handoffs repo ([[Handoffs Repo Links]]).
+
 The planning vault for Fruit Empire's big expansion: bats, explosives and fruit health, the underground base and ores, forest pets, boats and swimming, rebirth-gated rarity, the plot overhaul and the King UI overhaul.
+
+## Knowledge base (8 Nov 2026)
+
+- **Start:** [[Knowledge Base - Start Here]] · [[Fruit Empire Glossary]] · [[Sources and Gaps]]
+- **Working together:** [[Handoffs Repo Links]] · [[Studio Turn Rules]] · [[Hard Rules]]
+- **Look and UI:** [[UI Kit and Text Rules]] · [[Samarth's Taste]] · [[Art Style - Studded Voxels]] · [[Colour Palettes]] · [[Light, Day and Sound]] · [[Claude Design Canvases]]
+- **Map building and tools:** [[Workspace Map]] · [[Builders and ZZTools]] · [[Deploy Method]] · [[Studio MCP Traps]] · [[Testing in Studio]]
+- **Projects:** [[Project Status Board]] · [[Pets, Eggs and Fuse Machine]] · [[Forest Animals]] · [[Mine]] · [[Mine Digging and Cave-in]] · [[Crystal Fruit]] · [[Nine Bats]] · [[Troll Potion]] · [[Mega Rebirth]] · [[Rebirth Panel]] · [[Robux Shop]] · [[Plot Castle]] · [[Upgrade Skill Tree]] · [[Map Panel]] · [[Sky Stars]]
+
+## The October design phase (4 to 15 Oct)
+
+Everything below is the original planning vault. Parts are out of date: the King's Throne, duels and arena were removed on 9 Oct, and "10 Current Game" describes 4 Oct. How to open this vault: [[README]].
 
 - **Source of truth:** [[Brain Dump 2026-10-04]] (Samarth's words, verbatim)
 - **Place:** 88602028667228 · universe 10764283455 · Studio is edited live through the MCP bridge
@@ -24,7 +40,14 @@ The planning vault for Fruit Empire's big expansion: bats, explosives and fruit 
 | 07 UI | the UI kit inventory, rules, screen specs, image-generation prompts |
 | 08 Roadmap | milestones, order of work, status |
 | 09 Decisions | one entry per decision, with the reason |
-| 10 Current Game | how the game works today (code map) |
+| 10 Current Game | how the game worked on 4 Oct (code map) |
+| 11 Working Together | the handoffs repo links, the Studio turn rules, the hard rules (8 Nov) |
+| 12 Look and UI | the UI kit and text rules, Samarth's taste, art style, palettes, light and sound, canvases (8 Nov) |
+| 13 Map Building | the workspace map, builders, the deploy method, MCP traps, testing (8 Nov) |
+| 14 Projects | one page per project and the status board (8 Nov) |
+| 15 Sources | what the 8 Nov notes were written from, and the gaps (8 Nov) |
+
+The system specs are listed on [[00 Systems Index]].
 
 ## Status
 - [x] Vault created; brain dump saved; UI kit inventoried ([[UI Kit Inventory]])
@@ -38,4 +61,7 @@ The planning vault for Fruit Empire's big expansion: bats, explosives and fruit 
 - [x] Roadmap → [[Roadmap]] (M1 Rarity Gating and Rebirth first; dependency diagram inside)
 - [x] **M1 Rarity Gating and Rebirth built and verified in Studio** → [[M1 Verification]] (server and client; 2 on-screen bugs fixed). Waiting on Samarth: Save, Publish, shut down old servers.
 - [x] **M2 UI kit and King UI built and verified in Studio** -> [[M2 Verification]] (5 on-screen bugs fixed). Waiting on Samarth: Save, Publish, shut down old servers.
-- [ ] M3 Royal Combat core
+- [x] M3 Royal Combat core → [[M3 Verification]] (built 4 Oct, removed with the King's Throne on 9 Oct)
+- [x] M4 Potions and the shop tabs → [[M4 Verification]]
+- [x] M5 to M9 and MK → [[M5 Verification]], [[M6 Verification]], [[M7 Verification]], [[M8 Verification]], [[M9 Verification]], [[MK Verification]]
+- Everything after 9 Oct is in the knowledge base above and in the handoffs repo.

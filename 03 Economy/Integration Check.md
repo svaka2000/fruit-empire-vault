@@ -5,7 +5,7 @@ sources: [~/fruit-empire/sim/economy.py, ~/fruit-empire/sim/integration_check.py
 ---
 # Integration check: the economy across all 11 systems
 
-This note checks the 11 system specs in [[02 Systems]] against the [[Stage Model]] together, not one at a time. The fixes it led to are in [[Integration Review]] and the [[Decisions Log]] (D-013 to D-033).
+This note checks the 11 system specs in [[00 Systems Index|02 Systems]] against the [[Stage Model]] together, not one at a time. The fixes it led to are in [[Integration Review]] and the [[Decisions Log]] (D-013 to D-033).
 
 **Words used here**
 - **Stage**: the newest rarity a player has unlocked. Stage = rebirths + 1, from 1 (Common) to 9 (Transcendent).

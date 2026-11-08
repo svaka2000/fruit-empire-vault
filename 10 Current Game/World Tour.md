@@ -12,7 +12,7 @@ Screenshots from the Edit view. The HUD (Inventory, Index, Shop, Rebirth, Merge 
 - Each plot is a Model with a `Fence`, a `FenceFront` and a few Parts. They come in three footprints: about 49 × 79, 62 × 77 and 64 × 69 studs. Plot0 also has a `PlotSpawn`.
 
 ![[today-plot0.jpg]]
-- **What a plot is today:** a flat orange-brown dirt rectangle with a two-rail wooden fence, on a pale grey studded plaza. Nothing else stands on it. This is the "default plot" that Samarth wants improved 10×. See [[Plot Overhaul]].
+- **What a plot is today:** a flat orange-brown dirt rectangle with a two-rail wooden fence, on a pale grey studded plaza. Nothing else stands on it. This is the "default plot" that Samarth wants improved 10×. See [[Plot Overhaul and Environment|Plot Overhaul]].
 
 ## The border
 ![[today-border-mountains.jpg]]

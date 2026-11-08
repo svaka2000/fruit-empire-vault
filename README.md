@@ -23,4 +23,11 @@ The design notes for the Roblox game [STEAL!] Fruit Empire, kept as an Obsidian 
 | 08 Roadmap | The build order, plus a verification note with screenshots for each milestone |
 | 09 Decisions | The decisions log |
 | 10 Current Game | A tour of the game's code and world as it was on 4 Oct 2026 |
+| 11 Working Together | Links to the handoffs repo, the Studio turn rules, the hard rules (8 Nov 2026) |
+| 12 Look and UI | UI kit and text rules, taste, art style, colour palettes, light and sound, design canvases (8 Nov 2026) |
+| 13 Map Building | The workspace map, builders, the deploy method, Studio MCP traps, testing (8 Nov 2026) |
+| 14 Projects | One page per project and a status board (8 Nov 2026) |
+| 15 Sources | What the 8 Nov notes were written from, and what is uncertain |
 | Images | Pictures the notes use |
+
+The 8 Nov notes start at `00 Home/Knowledge Base - Start Here.md`.
