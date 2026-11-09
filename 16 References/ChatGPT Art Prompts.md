@@ -95,3 +95,17 @@ Sheet 11: using sheets 1 to 6 and my two attached screenshots (my Pets panel and
 Drop every result into this Claude chat. Claude saves them to `Images/` here and to the project folder, then cuts and wires them in.
 
 Related: [[Reaching Steal an Egg's Level]], [[Steal an Egg References]], [[UI Kit and Text Rules]].
+
+## Results (9 Nov 2026, 01:13)
+
+Samarth sent all 11 sheets back. Files are in `Images/ChatGPT art 2026-11-09/`.
+
+- **Sheets 1 to 7 (UI art):** ChatGPT drew the "transparent" checkerboard into the picture, so it is real grey squares. Claude's cutter (`~/fruit-empire-gui/tools/cut_sheets.py`) removes it only outside each piece's dark outline (white inside an outline, like the egg, stays), clears enclosed checks (the tick's ring, the padlock's shackle), and drops the painted outer glows on the selected slot and tab (the game draws those instead). Result: 76 clean pieces, 72 uploaded to Roblox (their ids are in the private gui repo, not here).
+![[cut-pieces-overview.jpg]]
+- **Sheet 8 (pets) and sheet 9 (eggs):** the target look for the sculpt pass. The pets chat has them.
+![[sheet08-pets-redesigned.webp]]
+![[sheet09-eggs.webp]]
+- **Sheet 10 (bats):** the target for the nine bats.
+![[sheet10-bats.webp]]
+- **Sheet 11 (inventory mockup):** one INVENTORY with Pets, Eggs and Gear tabs, rarity cards, a details box, and a ten-slot hotbar with the bat and the pickaxe in slots 1 and 2.
+![[sheet11-inventory-mockup.webp]]
