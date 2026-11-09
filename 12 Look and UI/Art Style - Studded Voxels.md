@@ -1,11 +1,14 @@
 ---
 tags: [fruit-empire, art, models, style]
 status: current
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Art style: studded voxels
 
 Every Fruit Empire model is blocky and studded, like Lego. Detail goes into shapes and shading, never into smooth surfaces. Words used here (voxel, MaterialVariant, Neon, Bloom) are in [[Fruit Empire Glossary]]. Back to [[Knowledge Base - Start Here]].
+
+> [!warning] 9 Nov: pets, eggs and bats change
+> Samarth wants pets that are not "pixelated like ours". Pets, eggs and bats move from voxels to chunky sculpted pieces that keep the studs. Ores, the mine and buildings stay as below. How: [[Reaching Steal an Egg's Level]].
 
 > [!important] Detailed but blocky, always studded
 > "Go overboard" on detail, but keep the studs. "Realistic" means detailed (corner stones, framed windows, corbels, tiled roofs, real timber joints), never smooth.

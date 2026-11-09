@@ -2,3 +2,6 @@
 .trash/
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Other people's videos stay local (copyright); the frame sheet is committed instead
+Images/Steal an Egg refs/*.mp4

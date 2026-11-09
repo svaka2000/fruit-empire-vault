@@ -1,7 +1,7 @@
 ---
 tags: [fruit-empire, taste, design, reference]
 status: current
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Samarth's taste
 
@@ -9,11 +9,13 @@ What Samarth asks for and what he turns down, in his own words where they were s
 
 ## What he asks for
 
+- **Not Claude's fonts and colours (9 Nov).** "i dont like the claude fonts and colors, i would like you to use something better." New art now comes from ChatGPT prompts or Figma ([[ChatGPT Art Prompts]]), aimed at his Steal an Egg references ([[Steal an Egg References]]). This replaces "Claude Design first" further down.
+- **Lots of dopamine (9 Nov).** "make our GUI fit our theme and even better than the reference GUI, it has to have a lot of dopamaine."
 - **"non AI slop."** He wants it to look made by a person who cares, not generic. (Pets brief, 29 Oct; memory `project_fruit_empire_pets.md`; exact words in `~/fruit-empire-pets/BRIEF.md`.)
 - **Big, not safe.** "make it 10x better" (pets). Ores that "look 10x better and hyper realistic. be creative and go overboard on the claude design" (21 Oct). "make the wooden structure 10x better make it super realistic" (cave, 22 Oct). Mega Rebirth should "look EXTREMELY COOL and seamless. it needs to be perfect" (25 Oct).
 - **Satisfying moments.** The ore break should be "ultra satisfying like it breaks apart and the crystals fly toward you" (21 Oct). Base upgrades "should be super insane when you upgrade" (20 Oct).
 - **Clean and polished.** The map should "loook super good" (20 Oct). The safe pockets should be "super aesthetic and high quality" (8 Nov).
-- **Claude Design first for anything visual.** "please use claude design for the GUI, it doesnt look that good right now" (25 Oct). "use claude design to make anything and everything you need do not limit yourself go all out" (20 Oct). See [[Claude Design Canvases]].
+- **Replaced on 9 Nov (see the top of this list): Claude Design first for anything visual.** "please use claude design for the GUI, it doesnt look that good right now" (25 Oct). "use claude design to make anything and everything you need do not limit yourself go all out" (20 Oct). See [[Claude Design Canvases]].
 - **Every item worth buying.** About potions: "nobody would pay for a potion of decaying", "dont overdo anything", "extremely high quality" (4 Oct).
 
 Sources: memory `feedback_game_models_go_overboard.md`, `project_fruit_empire_mega_rebirth.md`, `project_fruit_empire_rebirth_panel.md`, `project_fruit_empire_minimap.md`, `project_fruit_empire.md` (4 Oct and 20-21 Oct entries); `~/fruit-empire-mine/CAVE-OVERHAUL.md`; `~/fruit-empire-mine/pockets/MinePocketBuilder.lua` header.
@@ -22,6 +24,9 @@ Sources: memory `feedback_game_models_go_overboard.md`, `project_fruit_empire_me
 
 > [!important] The rule
 > When he says "realistic", he means more detail: corner stones, window frames, real timber joints, shading. It must stay blocky and studded like the rest of the game. Smooth looks off-theme to him.
+
+> [!note] 9 Nov: pets, eggs and bats go sculpted
+> His pets should not be "pixelated like ours" any more. He pointed at Steal an Egg's best pets: chunky sculpted shapes with studs on every face. So for pets, eggs and bats, studded stays and pixel steps go. See [[Reaching Steal an Egg's Level]].
 
 His words after seeing smooth gem crystals (21 Oct): "I low-key wanted them to be more blocky and match the theme of the rest of the game. When I said realistic, I wanted it to be super detailed, but still maintaining the studded and blocky texture." The ores were rebuilt as 0.2-stud voxels. (memory `feedback_game_models_go_overboard.md`) More in [[Art Style - Studded Voxels]].
 
@@ -45,6 +50,8 @@ Sources: memory `project_fruit_empire_rebirth_panel.md`, `project_fruit_empire_p
 
 | What | When | His call |
 |---|---|---|
+| Claude Design's fonts and colours | 9 Nov | "use something better": ChatGPT or Figma art instead |
+| Pixel-stepped pets | 9 Nov | Sculpted and studded, like Steal an Egg's best pets |
 | Smooth faceted shard ores | 21 Oct | Wanted blocky studded voxels instead |
 | The flat studded top buttons | 18 Oct | Wants the old glossy kit look back ([[UI Kit and Text Rules]]) |
 | The border mountain ring from M7 | 8 Oct | Undone; never re-run `BorderMountainsBuilder` |

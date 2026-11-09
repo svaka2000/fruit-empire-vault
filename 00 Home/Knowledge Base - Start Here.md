@@ -1,7 +1,7 @@
 ---
 tags: [fruit-empire, home, moc]
 status: current
-updated: 2026-11-08
+updated: 2026-11-09
 ---
 # Knowledge base: start here
 
@@ -23,6 +23,9 @@ New words are explained in [[Fruit Empire Glossary]].
 
 ## Look and UI
 
+- [[Steal an Egg References]]: Samarth's 9 Nov references for the GUI, pets, eggs and bats, with what he asked for.
+- [[Reaching Steal an Egg's Level]]: what makes them better and exactly what we change (sculpted pets, pets that act, bats, GUI).
+- [[ChatGPT Art Prompts]]: the prompts for the new art.
 - [[UI Kit and Text Rules]]: the kit, FredokaOne, text sizes, the "Larger" text trap and the words pass, 9-slice numbers, screen sizes.
 - [[Samarth's Taste]]: what he asks for, how he decides, what he turned down.
 - [[Art Style - Studded Voxels]]: detailed but blocky, Plastic + Studs, Neon and bloom.
