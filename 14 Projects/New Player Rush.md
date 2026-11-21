@@ -46,6 +46,7 @@ Measured in a Studio Play test on a brand-new save, 19 Nov 2026.
 - **19 Nov, later:** phase 2 (parts 6 to 9) was built in Studio and Play-tested on fresh saves: the garden level (an XP bar and LEVEL UP!), the merge combo, golden fruit with Golden Hour, and the 7-day DAILY REWARDS card. It is in the handoffs repo as `2026-11-19-samarth-new-player-rush-phase2`.
   - Learned in the tests: Studio's screenshots left out labels set to AlwaysOnTop, so the combo is drawn on the screen instead. `Kit.watchModals` only watches the panels listed when it starts, so new panels go in UIKit's own lists.
 - **20 Nov:** a player said the free gifts were too easy and too short. Samarth picked "over days of play": the 12 gifts now count all play time and never start over, from 3 minutes to 24 hours of play in all, bigger with the wait. The rush's screens also wear the UI kit a friend of Samarth's made with Codex.
+- **20 Nov, evening:** Studio crashed, and the place on Roblox turned out to be missing that morning's work, including the gifts change. It was put back exactly from Studio's recovered copy and saved to Roblox (a save, not a publish). It is in the handoffs repo as `2026-11-20-samarth-restore-after-studio-crash`.
 - **Not published yet** (phase 1 and phase 2). Not checked on a phone or with two players. Nobody has listened to the sounds.
 - **Waiting:** Weilin's OK on the new UI of both phases.
 
