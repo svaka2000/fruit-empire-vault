@@ -1,7 +1,7 @@
 ---
 tags: [fruit-empire, project, potions, troll-potion]
 status: built
-updated: 2026-11-08
+updated: 2026-11-21
 code: ~/fruit-empire-troll
 handoffs: [19]
 ---
@@ -16,6 +16,10 @@ Drink it and a MORPH panel opens: turn into any of the 64 fruit or the 45 forest
 ## Samarth's answers (22 Oct)
 
 He first asked for a 49-Robux potion, one per buy, 10 minutes. Then: "for now just make it cost shards in the shop like any other potion". So it costs 50 price units (the same as the Aether potion) and dying ends it like any potion. The Robux version (a developer product, kept through death) is parked in `~/fruit-empire-troll/later-robux`. (memory `project_fruit_empire_troll_potion.md`)
+
+## The CHANGE MORPH button (21 Nov)
+
+Samarth: some players never found out the effect badge opens the menu, and a small CLICK! sticker (handoff PR #108) was not enough: "they need to be big and pronounced. like i need something that makes someone want to click it". Now, while the potion runs and the MORPH panel is closed, a big green **CHANGE MORPH** button with the troll face stands by the effect block and opens the panel. Until it is first used in a visit it has gold rays, a sweeping light, a wiggle and the red "!"; when the panel closes, sparkles fly back into it. The Potion of Aether gets the same button, **CHANGE RIDE**. In the place: `GardenConfig.EffectCue`, `StarterPlayerScripts.EffectMenuCue`, and an `Open` event in MorphMenu's and RideMenu's Tap. Handoff [PR #111](https://github.com/svaka2000/fruit-empire-handoffs/pull/111). Not published; Weilin's OK and a phone check owed.
 
 ## Where it lives
 
