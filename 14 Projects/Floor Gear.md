@@ -129,3 +129,4 @@ My calls in there, for Samarth to check while reading: the shared pair cap, move
 
 - **21 Nov, 22:40 PST:** researched, designed, pitched on the board; Samarth picked all four calls. Next: the build plan, the build offline, then a Studio turn (queued behind three other chats).
 - **21 Nov, 23:00 PST:** builder check done (above). Build plan written; the gear's settings module is built and tested offline. Building the rest offline now.
+- **22 Nov, 00:57 PST:** built and installed in Studio, Play-tested by one player (the bat from the plot, rebirths, Mega Rebirth floors, buying at exactly the price, the panel, the hands, the hotbar), saved to Roblox, not published. Two-player hits were checked only in multi-player tests, which froze the computer; never again (one player and a stand-in from now on). Handoff PR #112. Left: Weilin's OK on the new UI, the gear pictures from ChatGPT, the Inventory's Gear tab, a crate and egg carrier test.
